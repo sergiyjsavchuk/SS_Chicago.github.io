@@ -1,0 +1,13 @@
+@import "form.css";
+@import "intro.css";
+@import "places.css";
+@import "food.css";
+@import "transport.css";
+@import "header.css";
+@import "nav.css";
+@import "media.css";
+@import "story.css";
+html,body{
+	margin: 0;
+	padding: 0;
+}

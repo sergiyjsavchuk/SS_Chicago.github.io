@@ -1,0 +1,11 @@
+.test{
+    background-image: url(../img/chicago-background1.jpeg)
+	margin: 0 auto;
+	padding: 0 auto;
+}
+.fa-chevron-down{
+	color: #bfbfbf;
+	margin:10% 48%;
+	opacity: 0.8;
+}
+

@@ -1,0 +1,25 @@
+.story-1{
+    margin-top: 20%;
+}
+
+
+.background-story{
+    border: 1px solid black;
+    background-color: #5774aa;
+    border-width: vh;
+	height:33vh;
+	margin-top: -30vh;
+    margin-bottom: -20vh;
+
+}
+
+.story-img{
+ margin-top: 12px;
+    
+}
+
+.text-story{
+    font-size: 16px;
+    margin-left: 640px;
+    margin-top: -30vh;
+}

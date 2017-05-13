@@ -1,0 +1,35 @@
+.food{
+	margin-top: 200px;
+    text-align: center;
+    color: #5774aa;
+	
+}
+
+
+
+.food-img{
+	margin:5px;
+	margin-left: 80px;
+	margin-top: 30px;
+	border:1px solid #5774aa;
+	float: left;
+	width: 450px;
+	padding: 20px;
+	text-align: center;
+}
+
+.food-img img:hover{
+    opacity: 0.5;
+}
+
+@media (max-width: 767px){
+	.food-img-container{
+		width: 100%;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	.food-img-container{
+		width: 48%;
+	}
+}
